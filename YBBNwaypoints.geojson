@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TEBOT",
+        "description": "Primary Northern STAR Arrival gate (Caboolture / Bribie region)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.923056, -26.963889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BLAKA",
+        "description": "Primary Southern STAR Arrival gate from SYD/MEL (Gold Coast Hinterland)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.280556, -28.188889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WOODY",
+        "description": "Northwestern STAR Arrival gate (Sunshine Coast Hinterland)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.748333, -26.708889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMOKA",
+        "description": "Inland Western STAR Arrival gate (Near Toowoomba / Lockyer Valley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.338611, -27.604722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOMOL",
+        "description": "International North-Eastern STAR Arrival gate (Coral Sea)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.841389, -26.837778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WACKO",
+        "description": "Core Jet SID Departure point (South Brisbane / Logan area)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.111111, -27.765000]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BIXAD",
+        "description": "Eastern Jet SID Departure point over water (East of Moreton Island)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.645000, -27.348889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LUTKO",
+        "description": "Bay Vectoring and Downwind Transition Fix (Southern Moreton Bay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.353333, -27.568333]
+      }
+    }
+  ]
+}
